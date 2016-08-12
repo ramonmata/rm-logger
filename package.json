@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramonmata/simple-logger.git"
+    "url": "git+https://github.com/ramonmata/rm-logger.git"
   },
   "keywords": [
     "logger",
     "console"
   ],
-  "author": "Ramon Mata <ramon@mata.com.mx> (http://ramon.mata.com.mx)",
+  "author": "Ramón Mata <ramon@mata.com.mx> (http://ramon.mata.com.mx)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ramonmata/simple-logger/issues"
+    "url": "https://github.com/ramonmata/rm-logger.git/issues"
   },
-  "homepage": "https://github.com/ramonmata/simple-logger#readme"
+  "homepage": "https://github.com/ramonmata/rm-logger.git#readme"
 }
