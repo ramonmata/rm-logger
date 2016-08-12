@@ -1,0 +1,23 @@
+{
+  "name": "rm-logger",
+  "version": "1.0.0",
+  "description": "Simplistic, Opinionated Logger Library for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonmata/simple-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "console"
+  ],
+  "author": "Ramon Mata <ramon@mata.com.mx> (http://ramon.mata.com.mx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramonmata/simple-logger/issues"
+  },
+  "homepage": "https://github.com/ramonmata/simple-logger#readme"
+}
