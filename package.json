@@ -4,7 +4,7 @@
   "description": "Simplistic, Opinionated Logger Library for Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/jshint/bin/jshint index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ramonmata/rm-logger.git/issues"
   },
-  "homepage": "https://github.com/ramonmata/rm-logger.git#readme"
+  "homepage": "https://github.com/ramonmata/rm-logger.git#readme",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
 }
