@@ -1,7 +1,7 @@
 {
   "name": "rm-logger",
   "version": "1.0.0",
-  "description": "Simplistic, Opinionated Logger Library for Node.JS",
+  "description": "Simplistic, Opinionated Logger Library for Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
