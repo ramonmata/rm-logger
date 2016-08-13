@@ -1,6 +1,8 @@
 # rm-logger
 Simple, Opinionated Logger library
 
+[![Build Status](https://travis-ci.org/ramonmata/rm-logger.svg?branch=master)](https://travis-ci.org/ramonmata/rm-logger)
+
 ## Install:
 ```sh
 npm install rm-logger
